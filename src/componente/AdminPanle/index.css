@@ -1,0 +1,33 @@
+.img--admin{
+    width: 80px;
+    height: 80px;
+    object-fit: contain;
+    padding: 5px;
+}
+.pagination{
+    justify-content: center;
+}
+.MuiGrid-item{
+    margin: auto;
+}
+.admin--shadow-item{
+    background: rgba( 255, 255, 255, 0.25 );
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 19px );
+    -webkit-backdrop-filter: blur( 19px );
+    border-radius: 10px;
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
+    margin: 2rem;
+    padding: 1rem ;
+}
+.admin-des-item{
+    color: rgba(0, 0, 255, 0.692);
+}
+.admin-mobile-design{
+display: flex;
+justify-content: center;
+align-items: baseline;
+}
+.text--center{
+    text-align: center;
+}

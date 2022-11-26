@@ -1,0 +1,31 @@
+
+.btn--search{
+    color: #0288d1 !important;
+     margin: 0px 15px !important;
+     flex: 1;
+}
+.inp--box{
+    width: 98%;
+    position: fixed;
+    top: 8%;
+    padding: 1rem;
+    z-index: 99;
+    background: rgba( 255, 255, 255, 0.25 );
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 19px );
+    -webkit-backdrop-filter: blur( 19px );
+    border-radius: 10px;
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
+}
+.Box-inp-search{
+    position: relative;
+    width: 98%;
+}
+.btn--search--icon--input{
+    color: #0288d1 !important;
+    position: absolute !important;
+    top: 13%;
+    left: 75%;
+    z-index: 99;
+    
+}

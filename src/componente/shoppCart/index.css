@@ -1,0 +1,37 @@
+.shopping--cart{
+    margin-top: 2rem;
+    padding: 2rem;
+}
+.cart-image{
+    width: 100px;
+    height: 100px;
+    padding: 5px;
+    object-fit: contain;
+}
+.shopping--cart--item{
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+}
+.MuiGrid-item{
+    display: flex;
+    align-items: baseline;
+    justify-content: center ;
+}
+
+.subtotla-bg{
+    border-bottom-left-radius: 50px;
+    background-color: #ccc;
+    padding:1rem 4rem;
+    display: flex;
+    justify-content: space-around;
+    
+}
+.subtotal-box{
+    display: flex;
+    justify-content: end;
+}
+.btn-cart{
+    width: 50%;
+    padding: 1rem !important;
+}

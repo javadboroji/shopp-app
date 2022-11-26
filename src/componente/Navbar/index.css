@@ -1,0 +1,32 @@
+.nav--menu{
+    list-style: none;
+    padding: 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    position: relative;
+}
+.mneu-item{
+ padding: 0px 25px;
+}
+.mneu-item >a{
+    text-decoration: none;
+}
+.mneu-item:hover .submenu{
+    visibility: visible;
+
+}
+.submenu{
+    position: absolute;
+    list-style: none;
+  
+
+}
+
+.submenu >.mneu-item{
+    padding: 15px 8px;
+}
+.MuiBox-root.css-2uchni{
+    display: flex !important;
+    align-items: baseline !important;
+}
