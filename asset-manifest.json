@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/shopp-app/static/css/main.7ef119bf.css",
+    "main.js": "/shopp-app/static/js/main.6ba4abbe.js",
+    "static/media/revicons.eot": "/shopp-app/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/shopp-app/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/shopp-app/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/shopp-app/index.html",
+    "main.7ef119bf.css.map": "/shopp-app/static/css/main.7ef119bf.css.map",
+    "main.6ba4abbe.js.map": "/shopp-app/static/js/main.6ba4abbe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ef119bf.css",
+    "static/js/main.6ba4abbe.js"
+  ]
+}
